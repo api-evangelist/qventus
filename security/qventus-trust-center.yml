@@ -1,0 +1,14 @@
+generated: '2026-07-20'
+method: searched
+source: https://trust.qventus.com/
+url: https://trust.qventus.com/
+# Verified live: the page loads with title "Qventus Trust Center". Content is
+# JavaScript-rendered (hosted trust-portal), so named certifications could not be
+# extracted verbatim and are left empty rather than fabricated. HIPAA/SOC 2 posture
+# is expected for a healthcare-operations vendor but is NOT asserted here without
+# a verbatim source.
+certifications: []
+evidence:
+- source: https://trust.qventus.com/
+  kind: trust-center
+  detail: page title "Qventus Trust Center"
